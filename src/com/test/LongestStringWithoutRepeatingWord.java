@@ -38,7 +38,8 @@ public class LongestStringWithoutRepeatingWord {
 	public static void main (String args[]) {
 	int max	=LongestString("abcabcaabbd");
 	System.out.println("maxlength:"+max);
-	System.out.println("Thank you");	
+	System.out.println("Thank you");
+		System.out.println("Thank you...2");
 	}
 
 }
